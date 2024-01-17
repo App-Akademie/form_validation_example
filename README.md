@@ -1,3 +1,3 @@
 # form_validation
 
-A new Flutter project.
+A (very small) example of how to do form validation in Flutter.
